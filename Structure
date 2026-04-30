@@ -1,0 +1,12 @@
+SPARQ/
+├── README.md                          ← SPARQ_Public_Release_Package.md
+├── leaderboard/
+│   └── SPARQ_v1.0_8Model_Leaderboard.md
+├── evaluation/
+│   └── SPARQ_Big4_Deep_Evaluation.md
+├── prompts/
+│   ├── SPARQ_v1.0_Full_Test_Pack.md
+│   └── SPARQ_Exact_Run_Roadmap.md
+├── v1.1/
+│   └── SPARQ_v1.1_Design_Document.md
+└── LICENSE (CC0)
